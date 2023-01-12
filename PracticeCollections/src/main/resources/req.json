@@ -1,0 +1,19 @@
+{
+  "studentId": "12345",
+  "items": [{
+    "action": "ADD",
+    "studnetType": "Day_boarder",
+    "courses": [
+      {
+        "courseName": "English",
+        "courseLevel": "2"
+      },
+      {
+        "courseName": "Hindi",
+        "courseLevel": "1"
+      }
+    ]
+  }]
+}
+
+
